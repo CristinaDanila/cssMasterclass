@@ -1,0 +1,97 @@
+.cointainer{
+	height: 500px;
+	width: 500px;
+	background: black;
+	position: relative;
+}
+
+.square{
+	height: 50px;
+	width: 50px;
+	position: absolute;
+}
+
+.rectangle1{
+   position: absolute;
+   height: 250px;
+   width: 50px;
+}
+.rectangle2{
+	position: absolute;
+	height: 100px;
+	width: 50px;
+}
+
+.rectangle3{
+	position: absolute;
+	height: 50px;
+	width: 250px;
+}
+
+.rectangle4{
+	position: absolute;
+	height: 50px;
+	width: 100px;
+}
+
+.blue{
+	background: blue;
+}
+
+.green{
+	background: green;
+}
+
+.red{
+	background: red;
+}
+.pink{
+	background: pink;
+}
+
+.purple{
+	background: purple;
+}
+
+.white{
+	background: white;
+}
+
+#squareBlue1{
+		left: 70px;
+	    top: 50px;
+
+}
+#squareBlue2{
+	    right:80px;
+	    top: 280px;
+}
+
+#squareGreen1{
+	left: 100px;
+	bottom: 90px;
+}
+
+#squareRed1{
+	right: 140px;
+	top: 120px;
+}
+
+#rectanglePink1{
+	left: 180px;
+	top: 100px;
+}
+
+#rectanglePurple1{
+	left: 180px;
+	top: 150px;
+}
+
+#rectanglePink2{
+	right: 40px;
+	bottom: 20px;
+}
+#rectangleWhite1{
+	right: 90px;
+	bottom: 20px;
+}
